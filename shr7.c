@@ -1,3 +1,8 @@
+/*
+Program(7)-> Write a C program to swap two numbers using a temprorary variable.
+Solution(1)-> User Defined Values
+*/
+
 #include<stdio.h>
 int main() 
 {
