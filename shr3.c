@@ -1,3 +1,7 @@
+/*
+Program(3)-> Write a program to calculate the area of a circle.
+Solution(1)-> Predefined values
+*/
 #include<stdio.h>
 int main()
 {
