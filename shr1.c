@@ -1,3 +1,8 @@
+/*
+Program(1)-> Write a program to make use of input/output functions using different data types.
+Solution(1)-> Predefined Value
+*/
+
 #include<stdio.h>
 int main()
 {
